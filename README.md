@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**saniyataj07/Saniyataj07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-
 
-Here are some ideas to get you started:
+# Hi, I'm Saniya Taj 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 BCA Student
+
+🌱 Currently Learning:
+- Git & GitHub
+- Python
+
+🎯 Goal:
+To become a skilled Python Developer and contribute to open-source projects.
+
+## Connect with me
+- GitHub: https://github.com/Saniyataj07
