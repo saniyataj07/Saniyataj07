@@ -21,3 +21,7 @@ To become a skilled Python Developer and contribute to open-source projects.
 - Learn Python fundamentals
 - Build 10 GitHub projects
 - Contribute to an open-source project
+
+## 📌 Fun Fact
+
+I enjoy learning new technologies and improving my coding skills every day.
