@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!-
-
 # Hi, I'm Saniya Taj 👋
 
 🎓 BCA Student
