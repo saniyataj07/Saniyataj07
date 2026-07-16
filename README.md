@@ -15,3 +15,9 @@ To become a skilled Python Developer and contribute to open-source projects.
 
 ## Connect with me
 - GitHub: https://github.com/Saniyataj07
+
+## 🚀 My Goals for 2026
+
+- Learn Python fundamentals
+- Build 10 GitHub projects
+- Contribute to an open-source project
