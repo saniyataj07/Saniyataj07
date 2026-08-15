@@ -1,3 +1,8 @@
+# 👩‍💻 Saniya Taj
+
+<p align="center">
+  <img src="github-id-card.png" width="700">
+</p>
 # Hi, I'm Saniya Taj 👋
 
 🎓 BCA Student
